@@ -1,0 +1,24 @@
+{
+  "name": "easy-note-taking-app",
+  "version": "1.0.0",
+  "description": "Never Miss A Thing in Your Life take notes",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "EXPRESS",
+    "NODE",
+    "RESTAPI",
+    "MONGODB",
+    "MONGOOSE",
+    "NOTES"
+  ],
+  "author": "Ishmeet K",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.3"
+  }
+}
